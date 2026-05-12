@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eloquentarduino.github.io/resources-y2nayl/sitemap.xml
